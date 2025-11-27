@@ -1,0 +1,23 @@
+.navbar {
+  background: #222;
+  padding: 10px 20px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-links a {
+  margin-left: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.nav-links button {
+  margin-left: 20px;
+  padding: 6px 10px;
+  cursor: pointer;
+  background: #e74c3c;
+  border: none;
+  color: white;
+}

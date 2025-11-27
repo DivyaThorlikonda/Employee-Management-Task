@@ -1,0 +1,20 @@
+.form input,
+.form select {
+  width: 250px;
+  padding: 8px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+button {
+  padding: 6px 12px;
+  background: #3498db;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.container {
+  width: 90%;
+  margin: 20px auto;
+}
